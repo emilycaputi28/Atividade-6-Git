@@ -1,3 +1,3 @@
 # Atividade-6-Git
 
-A semana será maravilhosa.
+O dia está lindo. A semana será maravilhosa.
